@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sahilsaudagar13@gmail.com**
 
-- 📄 I’m currently open for a new `job opportunity`, this is <a href="http://lnkiy.in/Ahmed_Hossam_Resume](https://drive.google.com/file/d/1RiuCQgmNQd6gmLOAPWSEchlaKe-B3_BC/view?usp=drive_link" alt="SahilResume">MY RESUME</a>.
+- 📄 I’m currently open for a new `job opportunity`, this is <a href="https://drive.google.com/file/d/1RiuCQgmNQd6gmLOAPWSEchlaKe-B3_BC/view?usp=drive_link" alt="SahilResume" target="_black">MY RESUME</a>.
 <br/>
 
 

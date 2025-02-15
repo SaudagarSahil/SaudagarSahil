@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Saudagar</h1>
 <h3 align="center">A passionate Web and Mobile App developer from Pune India &#127470;&#127475</h3>
 
-#<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaudagarSahil&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -17,9 +15,9 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1RiuCQgmNQd6gmLOAPWSEchlaKe-B3_BC/view?usp=drive_link" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-## 🌐 Socials:
+
+## <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-saudagar-668a381b9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilsaudagar13@gmail.com) 
 
 # 💻 Tech Stack:

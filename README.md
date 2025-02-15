@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Working on Mobile App(React-Native)
 
-- :computer: I am a competitive programmer at `Codeforces`, `Codechef`, `Leetcode`.
+- :computer: I am a competitive programmer at `Codeforces`, `Codechef` and `Leetcode`.
 
 - :nerd_face: Always `learning new things`.
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sahilsaudagar13@gmail.com**
 
-- 📄 I’m currently open for a new `job opportunity`, this is [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://drive.google.com/file/d/1RiuCQgmNQd6gmLOAPWSEchlaKe-B3_BC/view?usp=drive_link)).
+- 📄 I’m currently open for a new `job opportunity`, this is <a href="http://lnkiy.in/Ahmed_Hossam_Resume](https://drive.google.com/file/d/1RiuCQgmNQd6gmLOAPWSEchlaKe-B3_BC/view?usp=drive_link" alt="SahilResume">MY RESUME</a>.
 <br/>
 
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Saudagar</h1>
-<h3 align="center">Full Stack Developer | React & React Native Specialist</h3>
+<h3 align="center">Frontend Developer | React & React Native Specialist</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
@@ -12,8 +12,8 @@
 - 🔭 Currently building mobile experiences at **Flymingo Tech** with React Native
 - 🌱 Deep diving into **Advanced React Patterns** and **Cross-Platform Optimization**
 - 🏆 Competitive Programmer with ratings:
-  - Codeforces: [Expert](https://codeforces.com/profile/sahilsaudagar13) (Max 1600+)
-  - LeetCode: [500+ Problems Solved](https://leetcode.com/sahilsaudagar13/)
+  - Codeforces: (https://codeforces.com/profile/sahil_s)
+  - LeetCode: [100+ Problems Solved](https://leetcode.com/u/codewithsahil07/)
 - 💡 Passionate about creating efficient solutions and scalable architectures
 - 📫 Let's connect: **sahilsaudagar13@gmail.com**
 
@@ -37,7 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -49,8 +48,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaudagarSahil&layout=compact&theme=radical&hide_border=true)](https://github.com/SaudagarSahil)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SaudagarSahil&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ---
@@ -58,25 +55,24 @@
 ### 📄 Professional Credentials
 
 - 📌 [View My Resume](https://drive.google.com/file/d/1RiuCQgmNQd6gmLOAPWSEchlaKe-B3_BC/view)
-- 🏢 Open to new opportunities in **Full Stack Development** & **Mobile Engineering**
+- 🏢 Open to new opportunities in **Frontend Development** & **Mobile Engineering**
 
 ---
 
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-saudagar-668a381b9)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sahilsaudagar13/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sahilsaudagar13)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/codewithsahil07/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/sahil_s)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilsaudagar13@gmail.com)
 
 ---
 
 ### 🏆 Recent Achievements
 
-- 🥇 Ranked in top 5% of LeetCode Weekly Contests (2023)
 - 🚀 Reduced mobile app launch time by 40% through bundle optimization
 - 🛠 Implemented CI/CD pipeline reducing deployment cycles by 35%
 
 ---
 
-⭐ From [SaudagarSahil](https://github.com/SaudagarSahil) | Updated: Oct 2023
+⭐ From [SaudagarSahil](https://github.com/SaudagarSahil) | Updated: Feb 2025
